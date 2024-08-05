@@ -38,11 +38,6 @@ Welcome to my GitHub profile! I'm Muhammad Jawad, a seasoned Full Stack Software
 - **Description:** Designed and developed a user-friendly web application for patients and doctors. Features include appointment booking, report access, and medication management. Integrated Zoom for online consultations.
 - **Technologies:** NestJS, Vue.js, MySQL, Firebase, Zoom Video Conferencing
 
-### [OvaSave](https://ovasave.com/)
-- **Role:** Backend Developer
-- **Description:** Web-based platform for fertility preservation and management. Ensured robust backend development with a focus on security and performance.
-- **Technologies:** NestJS, MySQL, Microsoft Azure, HIPAA
-
 ### [International Medical Center - IMC](https://patientportal.imc.med.sa/imcportal/)
 - **Role:** Full Stack Software Engineer
 - **Description:** Comprehensive healthcare management app with features like appointment booking, report access, and online consultations.
